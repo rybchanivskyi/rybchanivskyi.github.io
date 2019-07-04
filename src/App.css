@@ -1,0 +1,13 @@
+.App{
+  padding-top: 4rem;
+  min-height: 100vh;
+  background-image: url(./components/pokemon/back.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.navbar {
+  background-color: #d30c1d !important;
+}
